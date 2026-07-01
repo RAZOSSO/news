@@ -1,0 +1,7 @@
+cd "c:\Users\ha171\OneDrive\デスクトップ\海外情報"
+git init
+git add .
+git commit -m "Initial commit: overseas news magazine"
+git branch -M main
+git remote add origin https://github.com/あなたのユーザー名/リポジトリ名.git
+git push -u origin main
